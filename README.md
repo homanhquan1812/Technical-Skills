@@ -17,7 +17,18 @@
 * Duration: August 14th 2024 - October 14th 2024.
 # Database
 ## SQL
+### Microsoft SQL Server
+* Course: Full course (Coming soon).
+* Status: <b>0%</b>.
+* Duration: ? - ?.
+### PostgreSQL
+* Course: Full course (Coming soon).
+* Status: <b>0%</b>.
+* Duration: ? - ?. 
 ## NoSQL
+* Course: [Full course](https://www.youtube.com/watch?v=aDd4HiGQSIU).
+* Status: <b>50%</b>.
+* Duration: July 5th 2023 - June 31th 2024. 
 # Backend
 ## NodeJS && ExpressJS
 * Course: [Full course](https://fullstack.edu.vn/learning/nodejs).
@@ -41,5 +52,8 @@
 * Status: <b>0%</b>.
 * Duration: ? - ?. 
 # Software
-(Coming soon)
+## Winform
+* Course: Full course (Coming soon).
+* Status: <b>0%</b>.
+* Duration: ? - ?. 
 
