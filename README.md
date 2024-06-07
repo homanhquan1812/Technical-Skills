@@ -26,6 +26,7 @@
 * Status: <b>0%</b>.
 * Duration: ? - ?. 
 ## NoSQL
+### MongoDB
 * Course: [Full course](https://www.youtube.com/watch?v=aDd4HiGQSIU).
 * Status: <b>50%</b>.
 * Duration: July 5th 2023 - June 31th 2024. 
