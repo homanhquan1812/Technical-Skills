@@ -14,7 +14,7 @@
 ## Java
 * Course: Basic (Coming soon) and Advanced (Coming soon).
 * Status: <b>0%</b>.
-* Duration: August 14th 2024 - October 14th 2024.
+* Duration: ? - ?.
 # Database
 ## SQL
 ### Microsoft SQL Server
@@ -41,12 +41,12 @@
 ## Spring Boot
 * Course: Full course (Coming soon).
 * Status: <b>0%</b>.
-* Duration: July 14th 2024 - November 14th 2024. 
+* Duration: ? - ?. 
 # Mobile
 ## React Native
 * Course: Full course (Coming soon).
 * Status: <b>0%</b>.
-* Duration: July 14th 2024 - November 14th 2024. 
+* Duration: July 1st 2024 - August 1st 2024. 
 ## Kotlin
 * Course: Full course (Coming soon).
 * Status: <b>0%</b>.
