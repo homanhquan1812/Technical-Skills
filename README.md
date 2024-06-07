@@ -2,7 +2,7 @@
 
 ![Untitled Diagram drawio](https://github.com/homanhquan1812/My-Technical-Skills/assets/130955957/dcddf438-897f-4419-994e-dc13a116af38)
 
-# Basic knowledge
+# Basic Knowledge
 ## Javascript
 * Course: [Basic](https://fullstack.edu.vn/learning/javascript-co-ban) and [Advanced](https://fullstack.edu.vn/learning/javascript-nang-cao).
 * Status: <b>50%</b>.
