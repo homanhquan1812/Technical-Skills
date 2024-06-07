@@ -33,7 +33,7 @@
 # Backend
 ## NodeJS & ExpressJS :white_check_mark:	
 * Course: [Full course](https://fullstack.edu.vn/learning/nodejs).
-* Status: <b>Finished</b>.
+* Status: <b>100%</b>.
 * Duration: July 5th 2023 - December 25th 2023.
 ## ASP.NET Core
 * Course: Full course (Coming soon).
