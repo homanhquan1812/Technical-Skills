@@ -5,15 +5,15 @@
 # Basic knowledge
 ## Javascript
 * Course: [Basic](https://fullstack.edu.vn/learning/javascript-co-ban) and [Advanced](https://fullstack.edu.vn/learning/javascript-nang-cao).
-* Status: 50%.
+* Status: <b>50%</b>.
 * Duration: July 5th 2023 - July 31st 2024. 
 ## C#
 * Course: [Basic](https://youtu.be/YrtFtdTTfv0?si=LHVkNG1ercbSVPUG) and Advanced (Coming soon).
-* Status: 10%.
+* Status: <b>10%</b>.
 * Duration: March 3rd 2024 - July 31th 2024. 
 ## Java
 * Course: Basic (Coming soon) and Advanced (Coming soon).
-* Status: 0%.
+* Status: <b>0%</b>.
 * Duration: August 14th 2024 - October 14th 2024.
 # Database
 ## SQL
@@ -21,24 +21,24 @@
 # Backend
 ## NodeJS && ExpressJS
 * Course: [Full course](https://fullstack.edu.vn/learning/nodejs).
-* Status: Finished.
+* Status: <b>Finished</b>.
 * Duration: July 5th 2023 - December 25th 2023.
 ## ASP.NET Core
 * Course: Full course (Coming soon).
-* Status: 0%.
+* Status: <b>0%</b>.
 * Duration: June 21st 2024 - August 21th 2024. 
 ## Spring Boot
 * Course: Full course (Coming soon).
-* Status: 0%.
+* Status: <b>0%</b>.
 * Duration: July 14th 2024 - November 14th 2024. 
 # Mobile
 ## React Native
 * Course: Full course (Coming soon).
-* Status: 0%.
+* Status: <b>0%</b>.
 * Duration: July 14th 2024 - November 14th 2024. 
 ## Kotlin
 * Course: Full course (Coming soon).
-* Status: 0%.
+* Status: <b>0%</b>.
 * Duration: ? - ?. 
 # Software
 (Coming soon)
