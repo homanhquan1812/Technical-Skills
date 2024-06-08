@@ -32,7 +32,7 @@
 * Duration: July 5th 2023 - June 31th 2024. 
 # Backend
 ## NodeJS & ExpressJS :white_check_mark:	
-* Course: [Full course](https://fullstack.edu.vn/learning/nodejs).
+* Course: [Click here](https://github.com/homanhquan1812/ExpressJS).
 * Status: <b>Finished</b>.
 * Duration: July 5th 2023 - December 25th 2023.
 ## ASP.NET Core
