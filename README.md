@@ -4,53 +4,53 @@
 
 # Basic Knowledge
 ## Javascript
-* Course: [Basic](https://fullstack.edu.vn/learning/javascript-co-ban) and [Advanced](https://fullstack.edu.vn/learning/javascript-nang-cao).
-* Status: <b>50%</b>.
+* Course: Basic (Coming soon) and Advanced (Coming soon).
+* Status: <b>Ongoing</b>.
 * Duration: July 5th 2023 - July 31st 2024. 
 ## C#
-* Course: [Basic](https://youtu.be/YrtFtdTTfv0?si=LHVkNG1ercbSVPUG) and Advanced (Coming soon).
-* Status: <b>10%</b>.
+* Course: (Click here)[https://github.com/homanhquan1812/C_Sharp]
+* Status: <b>Ongoing</b>.
 * Duration: March 3rd 2024 - July 31th 2024. 
 ## Java
 * Course: Basic (Coming soon) and Advanced (Coming soon).
-* Status: <b>0%</b>.
+* Status: <b>Ongoing</b>.
 * Duration: ? - ?.
 # Database
 ## SQL
 ### Microsoft SQL Server
-* Course: Full course (Coming soon).
-* Status: <b>0%</b>.
+* Course: Basic (Coming soon) and Advanced (Coming soon).
+* Status: <b>Ongoing</b>.
 * Duration: ? - ?.
 ### PostgreSQL
-* Course: Full course (Coming soon).
-* Status: <b>0%</b>.
+* Course: Basic (Coming soon) and Advanced (Coming soon).
+* Status: <b>Ongoing</b>.
 * Duration: ? - ?. 
 ## NoSQL
 ### MongoDB
-* Course: [Full course](https://www.youtube.com/watch?v=aDd4HiGQSIU).
-* Status: <b>50%</b>.
+* Course: Basic (Coming soon) and Advanced (Coming soon).
+* Status: <b>Ongoing</b>.
 * Duration: July 5th 2023 - June 31th 2024. 
 # Backend
 ## NodeJS & ExpressJS :white_check_mark:	
 * Course: [Full course](https://fullstack.edu.vn/learning/nodejs).
-* Status: <b>100%</b>.
+* Status: <b>Finished</b>.
 * Duration: July 5th 2023 - December 25th 2023.
 ## ASP.NET Core
-* Course: Full course (Coming soon).
-* Status: <b>0%</b>.
+* Course: Basic (Coming soon) and Advanced (Coming soon).
+* Status: <b>Ongoing</b>.
 * Duration: June 21st 2024 - August 21th 2024. 
 ## Spring Boot
-* Course: Full course (Coming soon).
-* Status: <b>0%</b>.
+* Course: Basic (Coming soon) and Advanced (Coming soon).
+* Status: <b>Ongoing</b>.
 * Duration: ? - ?. 
 # Mobile
 ## React Native
-* Course: Full course (Coming soon).
-* Status: <b>0%</b>.
+* Course: Basic (Coming soon) and Advanced (Coming soon).
+* Status: <b>Ongoing</b>.
 * Duration: July 1st 2024 - August 1st 2024. 
 ## Kotlin
-* Course: Full course (Coming soon).
-* Status: <b>0%</b>.
+* Course: Basic (Coming soon) and Advanced (Coming soon).
+* Status: <b>Ongoing</b>.
 * Duration: ? - ?. 
 # Software
 ## Winform
