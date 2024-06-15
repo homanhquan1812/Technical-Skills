@@ -6,56 +6,56 @@
 # Basic Knowledge
 ## Javascript
 * Course: Basic (Coming soon) and Advanced (Coming soon).
-* Status: <b>Ongoing</b>.
+* Status: :x:.
 * Duration: July 5th 2023 - July 31st 2024. 
-## C# :white_check_mark:	
+## C# 
 * Course: [Click here](https://github.com/homanhquan1812/C_Sharp)
-* Status: <b>Finished</b>.
+* Status: :white_check_mark:.
 * Duration: March 3rd 2024 - June 10th 2024. 
 ## Java
 * Course: Basic (Coming soon) and Advanced (Coming soon).
-* Status: <b>Ongoing</b>.
+* Status: :x:.
 * Duration: ? - ?.
 # Database
 ## SQL
 ### Microsoft SQL Server
 * Course: Basic (Coming soon) and Advanced (Coming soon).
-* Status: <b>Ongoing</b>.
+* Status: :x:.
 * Duration: ? - ?.
 ### PostgreSQL
 * Course: Basic (Coming soon) and Advanced (Coming soon).
-* Status: <b>Ongoing</b>.
+* Status: :x:.
 * Duration: ? - ?. 
 ## NoSQL
 ### MongoDB
 * Course: Basic (Coming soon) and Advanced (Coming soon).
-* Status: <b>Ongoing</b>.
+* Status: :x:.
 * Duration: July 5th 2023 - June 31th 2024. 
 # Backend
-## NodeJS & ExpressJS :white_check_mark:	
+## NodeJS & ExpressJS	
 * Course: [Click here](https://github.com/homanhquan1812/ExpressJS).
-* Status: <b>Finished</b>.
+* Status: :white_check_mark:.
 * Duration: July 5th 2023 - December 25th 2023.
 ## ASP.NET Core
 * Course: Basic (Coming soon) and Advanced (Coming soon).
-* Status: <b>Ongoing</b>.
+* Status: :x:.
 * Duration: June 21st 2024 - August 21th 2024. 
 ## Spring Boot
 * Course: Basic (Coming soon) and Advanced (Coming soon).
-* Status: <b>Ongoing</b>.
+* Status: :x:.
 * Duration: ? - ?. 
 # Mobile
 ## React Native
 * Course: Basic (Coming soon) and Advanced (Coming soon).
-* Status: <b>Ongoing</b>.
+* Status: :x:.
 * Duration: July 1st 2024 - August 1st 2024. 
 ## Kotlin
 * Course: Basic (Coming soon) and Advanced (Coming soon).
-* Status: <b>Ongoing</b>.
+* Status: :x:.
 * Duration: ? - ?. 
 # Software
 ## Winform
 * Course: Full course (Coming soon).
-* Status: <b>0%</b>.
+* Status: :x:.
 * Duration: ? - ?. 
 
