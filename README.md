@@ -8,10 +8,10 @@
 * Course: Basic (Coming soon) and Advanced (Coming soon).
 * Status: <b>Ongoing</b>.
 * Duration: July 5th 2023 - July 31st 2024. 
-## C#
+## C# :white_check_mark:	
 * Course: [Click here](https://github.com/homanhquan1812/C_Sharp)
-* Status: <b>Ongoing</b>.
-* Duration: March 3rd 2024 - July 31th 2024. 
+* Status: <b>Finished</b>.
+* Duration: March 3rd 2024 - June 10th 2024. 
 ## Java
 * Course: Basic (Coming soon) and Advanced (Coming soon).
 * Status: <b>Ongoing</b>.
