@@ -5,7 +5,7 @@
 
 # Basic Knowledge
 ## Javascript
-* Course: Basic [Click here](https://github.com/homanhquan1812/Javascript).
+* Course: [Click here](https://github.com/homanhquan1812/Javascript).
 * Status: :white_check_mark:.
 * Duration: July 5th 2023 - June 24th 2024. 
 ## C# 
