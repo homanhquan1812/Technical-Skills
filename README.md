@@ -5,9 +5,9 @@
 
 # Basic Knowledge
 ## Javascript
-* Course: Basic (Coming soon) and Advanced (Coming soon).
-* Status: :x:.
-* Duration: July 5th 2023 - July 31st 2024. 
+* Course: Basic [Click here](https://github.com/homanhquan1812/Javascript).
+* Status: :white_check_mark:.
+* Duration: July 5th 2023 - June 24th 2024. 
 ## C# 
 * Course: [Click here](https://github.com/homanhquan1812/C_Sharp)
 * Status: :white_check_mark:.
