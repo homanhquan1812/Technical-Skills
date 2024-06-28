@@ -18,14 +18,10 @@
 * Duration: ? - ?.
 # Database
 ## SQL
-### Microsoft SQL Server
-* Course: Basic (Coming soon) and Advanced (Coming soon).
+### Microsoft SQL Server & PostgreSQL & MySQL
+* Course: [Click here](https://github.com/homanhquan1812/SQL).
 * Status: :x:.
 * Duration: ? - ?.
-### PostgreSQL
-* Course: Basic (Coming soon) and Advanced (Coming soon).
-* Status: :x:.
-* Duration: ? - ?. 
 ## NoSQL
 ### MongoDB
 * Course: Basic (Coming soon) and Advanced (Coming soon).
