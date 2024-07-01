@@ -20,8 +20,8 @@
 ## SQL
 ### Microsoft SQL Server & PostgreSQL & MySQL
 * Course: [Click here](https://github.com/homanhquan1812/SQL).
-* Status: :x:.
-* Duration: ? - ?.
+* Status: :white_check_mark:.
+* Duration: June 24th 2024 - July 1st 2024.
 ## NoSQL
 ### MongoDB
 * Course: Basic (Coming soon) and Advanced (Coming soon).
