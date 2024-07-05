@@ -4,6 +4,10 @@
 
 
 # Basic Knowledge
+## General IT Knowledge
+### Object-Oriented Programming (OOP)
+### SOLID
+### Design Pattern
 ## Javascript
 * Course: [Click here](https://github.com/homanhquan1812/Javascript).
 * Status: :white_check_mark:.
