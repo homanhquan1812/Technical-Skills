@@ -5,10 +5,22 @@
 
 # Basic Knowledge
 ## General IT Knowledge
-* Object-Oriented Programming (OOP): [Click here](https://github.com/homanhquan1812/OOP) :white_check_mark:.
-* SOLID Principles: [Click here](https://github.com/homanhquan1812/SOLID-Principles) :x:.
-* Design Pattern: [Click here](https://github.com/homanhquan1812/Design-Pattern) :x:.
-* System Design: [Click here](https://github.com/homanhquan1812/System-Design) :x:.
+### Object-Oriented Programming (OOP)
+* Course: [Click here](https://github.com/homanhquan1812/OOP).
+* Status: :white_check_mark:.
+* Duration: June 24th 2024 - July 6th 2024. 
+### SOLID Principles
+* Course: [Click here](https://github.com/homanhquan1812/SOLID-Principles).
+* Status: :x:.
+* Duration: ?. 
+### Design Pattern
+* Course: [Click here](https://github.com/homanhquan1812/Design-Pattern).
+* Status: :x:.
+* Duration: ?. 
+### System Design
+* Course: [Click here](https://github.com/homanhquan1812/System-Design).
+* Status: :x:.
+* Duration: ?. 
 
 ## Javascript
 * Course: [Click here](https://github.com/homanhquan1812/Javascript).
