@@ -5,11 +5,10 @@
 
 # Basic Knowledge
 ## General IT Knowledge
-* Object-Oriented Programming (OOP): :white_check_mark:.
-* SOLID Principles: :x:.
-* Design Pattern: :x:.
-* System Design: :x:.
-> https://github.com/homanhquan1812/General-IT-Knowledge/
+* Object-Oriented Programming (OOP): [Click here](https://github.com/homanhquan1812/OOP) :white_check_mark:.
+* SOLID Principles: [Click here](https://github.com/homanhquan1812/SOLID-Principles) :x:.
+* Design Pattern: [Click here](https://github.com/homanhquan1812/Design-Pattern) :x:.
+* System Design: [Click here](https://github.com/homanhquan1812/System-Design) :x:.
 
 ## Javascript
 * Course: [Click here](https://github.com/homanhquan1812/Javascript).
