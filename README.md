@@ -31,9 +31,18 @@
 * Status: :white_check_mark:.
 * Duration: March 3rd 2024 - June 10th 2024. 
 ## Java
-* Course: Basic (Coming soon) and Advanced (Coming soon).
+* Course: [Click here](https://github.com/homanhquan1812/Java).
 * Status: :x:.
 * Duration: ? - ?.
+## C++
+* Course: [Click here](https://github.com/homanhquan1812/C_PlusPlus).
+* Status: :x:.
+* Duration: ? - ?.
+## Python
+* Course: [Click here](https://github.com/homanhquan1812/Python).
+* Status: :x:.
+* Duration: ? - ?.
+* 
 # Database
 ## SQL
 ### Microsoft SQL Server & PostgreSQL & MySQL
@@ -44,27 +53,44 @@
 ### MongoDB
 * Course: Basic (Coming soon) and Advanced (Coming soon).
 * Status: :x:.
-* Duration: July 5th 2023 - June 31th 2024. 
+* Duration: July 5th 2023 - June 31th 2024.
+# Frontend
+## ReactJS
+* Course: [Click here](https://github.com/homanhquan1812/ReactJS).
+* Status: :x:.
+* Duration: ? - ?.
+## Angular
+* Course: [Click here](https://github.com/homanhquan1812/Angular).
+* Status: :x:.
+* Duration: ? - ?.
 # Backend
-## NodeJS & ExpressJS	
+## NodeJS & ExpressJS
 * Course: [Click here](https://github.com/homanhquan1812/ExpressJS).
 * Status: :white_check_mark:.
 * Duration: July 5th 2023 - December 25th 2023.
+## NodeJS & NestJS
+* Course: [Click here](https://github.com/homanhquan1812/NestJS).
+* Status: :x:.
+* Duration: ? - ?.
 ## ASP.NET Core
-* Course: Basic (Coming soon) and Advanced (Coming soon).
+* Course: [Click here](https://github.com/homanhquan1812/ASP.NET-Core).
 * Status: :x:.
-* Duration: June 21st 2024 - August 21th 2024. 
+* Duration: ? - ?.
 ## Spring Boot
-* Course: Basic (Coming soon) and Advanced (Coming soon).
+* Course: [Click here](https://github.com/homanhquan1812/Spring-Boot).
 * Status: :x:.
-* Duration: ? - ?. 
+* Duration: ? - ?.
 # Mobile
 ## React Native
-* Course: Basic (Coming soon) and Advanced (Coming soon).
+* Course: [Click here](https://github.com/homanhquan1812/React-Native).
 * Status: :x:.
-* Duration: July 1st 2024 - August 1st 2024. 
+* Duration: July 1st 2024 - August 1st 2024.
+## Java (Android)
+* Course: [Click here](https://github.com/homanhquan1812/Java-Android).
+* Status: :x:.
+* Duration: ? - ?. 
 ## Kotlin
-* Course: Basic (Coming soon) and Advanced (Coming soon).
+* Course: [Click here](https://github.com/homanhquan1812/Kotlin).
 * Status: :x:.
 * Duration: ? - ?. 
 # Software
