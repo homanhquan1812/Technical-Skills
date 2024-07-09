@@ -32,8 +32,8 @@
 * Duration: March 3rd 2024 - June 10th 2024. 
 ## Java
 * Course: [Click here](https://github.com/homanhquan1812/Java).
-* Status: :x:.
-* Duration: ? - ?.
+* Status: :white_check_mark:.
+* Duration: July 2nd 2024 - July 9th 2024. 
 ## C++
 * Course: [Click here](https://github.com/homanhquan1812/C_PlusPlus).
 * Status: :x:.
