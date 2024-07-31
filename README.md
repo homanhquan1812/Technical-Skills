@@ -1,6 +1,6 @@
 # My Technical Skills
 
-![Untitled Diagram drawio](https://github.com/homanhquan1812/Technical-Skills/assets/130955957/d581b7da-3794-4cbb-b49d-5ddc7aeb25e2)
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/a745a03f-db58-49d9-a782-3ed32612d5f3)
 
 
 # Basic Knowledge
