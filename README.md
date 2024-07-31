@@ -49,11 +49,6 @@
 * Course: [Click here](https://github.com/homanhquan1812/SQL).
 * Status: :white_check_mark:.
 * Duration: June 24th 2024 - July 1st 2024.
-## NoSQL
-### MongoDB
-* Course: Basic (Coming soon) and Advanced (Coming soon).
-* Status: :x:.
-* Duration: July 5th 2023 - June 31th 2024.
 # Frontend
 ## ReactJS
 * Course: [Click here](https://github.com/homanhquan1812/ReactJS).
